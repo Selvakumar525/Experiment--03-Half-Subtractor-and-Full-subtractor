@@ -41,7 +41,7 @@ Write the detailed procedure here
 
 
 ## Program:
-~~~python
+```c
 /*
 Program to design a half subtractor and full subtractor circuit and verify its truth table in quartus using Verilog programming.
 Developed by: Selva Kumar A
@@ -65,7 +65,7 @@ output Difference,Borrow;
 assign Difference = (~A &(B ^ C) | (B & C));
 assign Borrow = ( A^B^C);
 endmodule
-~~~
+```
 ## Output:
 
 ## Truthtable
@@ -75,27 +75,35 @@ endmodule
 
 
 ### FULL Subractar :
+![image](https://user-images.githubusercontent.com/120643262/233013508-e16aaedb-5a6f-4c6f-a5ee-f267adc7f35f.png)
+
 
 
 ### Logical diagram :
 ### HALF SUBRACTAR:
+![image](https://user-images.githubusercontent.com/120643262/233013587-10572032-f205-4934-8fd8-8924343e0c8f.png)
 
 ### Full Subractar:
+![image](https://user-images.githubusercontent.com/120643262/233013707-d7811acc-ecf1-4aa2-b3c7-8c6fd37b725b.png)
 
 
 
 
 ##  RTL realization
 ### HALF SUBRACTAR:
+![image](https://user-images.githubusercontent.com/120643262/233013819-7303f04e-dea9-43e9-ae41-1a0687bf3e27.png)
 
 ### FULL SUBRACTAR:
+![image](https://user-images.githubusercontent.com/120643262/233013895-69c74e02-3a84-44b6-adab-5d14a14af206.png)
 
 
 
 ## Timing diagram 
 ### Half Subractar:
+![image](https://user-images.githubusercontent.com/120643262/233013991-3a564500-f0db-4158-a717-cc555d7459f5.png)
 
 ### Full Subractar :
+![image](https://user-images.githubusercontent.com/120643262/233014047-e45803ce-b5dd-456f-8f41-49ed7dd9647e.png)
 
 
 
