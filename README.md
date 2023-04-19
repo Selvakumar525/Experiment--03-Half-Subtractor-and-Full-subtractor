@@ -70,7 +70,7 @@ endmodule
 
 ## Truthtable
 ### Half Subtractor :
-![image](https://user-images.githubusercontent.com/120643262/233011682-024de631-f221-403a-be0c-23d4849d2640.png)
+![image](https://user-images.githubusercontent.com/120643262/233012822-b5af9dd0-f1cf-4a20-8ddb-b79dbb06ea9c.png)
 
 
 
