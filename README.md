@@ -70,10 +70,12 @@ endmodule
 
 ## Truthtable
 ### Half Subtractor :
-![image](https://user-images.githubusercontent.com/120643262/233010522-1fab577c-4076-4210-9473-d27b05a2bb63.png)
+![image](https://user-images.githubusercontent.com/120643262/233011682-024de631-f221-403a-be0c-23d4849d2640.png)
+
+
 
 ### FULL Subractar :
-![image](https://user-images.githubusercontent.com/120643262/233010834-c1e7e6ce-20df-4c4f-b8d0-225308c4e11c.png)
+
 
 ### Logical diagram :
 ### HALF SUBRACTAR:
